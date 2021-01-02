@@ -1,0 +1,164 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-10-25 20:22+0600\n"
+"PO-Revision-Date: 2020-10-21 22:42+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/class-wmnw-admin-menu.php:12
+msgid "Setting"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:18 includes/class-wmnw-admin-menu.php:19
+msgid "WhatsApp Message Notifications"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:29
+msgid "WooCommerce WhatsApp Message Notifications"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:35
+msgid "Api  Credentials"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:39
+msgid "WhatsApp api"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:39
+msgid "Credentials are required for WhatsApp Message Notifications. The instruction is documented"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:39
+msgid "here."
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:45
+msgid "Instance"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:53
+msgid "Access Token"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:63 includes/class-wmnw-admin-menu.php:126
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:67
+msgid "Admin notification"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:70
+msgid "Notify store owner about new orders"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:88
+msgid "You must enter your country code when typing the number"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:97
+msgid "Customer notification"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:100
+msgid "Send SMS notification to client for each order status change"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:129
+msgid "You can use following variables in your templates:"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:178
+#: includes/class-wmnw-admin-menu.php:230
+msgid "New Order message"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:179
+#: includes/class-wmnw-admin-menu.php:231
+msgid "Message sent to you on receipt of a new order"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:183
+msgid "Pending Payment message"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:184
+msgid "Message sent to the client when a new order is awaiting payment"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:188
+msgid "On-Hold message"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:189
+msgid "Message sent to the client when an order goes on-hold"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:193
+msgid "Order Processing message"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:194
+msgid "Message sent to the client when an order is under process"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:198
+msgid "Order Completed message"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:199
+msgid "Message sent to the client when an order is completed"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:203
+msgid "Order Cancelled message"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:204
+msgid "Message sent to the client when an order is cancelled"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:208
+msgid "Payment Refund message"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:209
+msgid "Message sent to the client when an order payment is refunded"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:213
+msgid "Payment Failure message"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:214
+msgid "Message sent to the client when a payment fails"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:218
+msgid "Custom Status message"
+msgstr ""
+
+#: includes/class-wmnw-admin-menu.php:219
+msgid "Message sent to the client when order moves to a custom status (defined by other plugins)"
+msgstr ""
+
+#: wc-whatsapp-message-notifications.php:33
+msgid "WooCommerce WhatsApp Message Notifications requires WooCommerce to be installed and active. You can download"
+msgstr ""
+
+#: wc-whatsapp-message-notifications.php:33
+msgid "WooCommerce"
+msgstr ""
